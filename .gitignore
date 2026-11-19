@@ -1,0 +1,28 @@
+
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+# Editor/system files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary troubleshooting scripts
+check_fund_master.py
+scheme_lookup.py
+verify_scheme_codes.py
+day1_validation.py
+
+# Unrequired temporary notebooks
+notebooks/*.ipynb
